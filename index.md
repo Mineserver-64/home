@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Mineserver-64へようこそ!!
 
-You can use the [editor on GitHub](https://github.com/Mineserver-64/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+このサーバーはMinecraft java editionのbungeeCodeとspigotを使用したサーバーです。
+このサーバーは3つの要素(ミニゲーム、RPG、サバイバル)が圧縮されたサーバーです。　
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### サーバーのルール
+このルールはマインクラフトサーバーにもDiscordサーバーにも適用されます。
 
-### Markdown
+```
+ルール一覧
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+荒らさない。
+チートまたhackを使用しない。
+運営に注意されたこと等はしっかり守る。
+他人の個人情報を無断で公開しない。
+﻿
+ルールに書かれていないことでも、運営が悪質と判断した場合は処罰されます。
+﻿
+BANのような大事にせず、きちんとルールを守ってサーバーで遊びましょう。
 
-```markdown
-Syntax highlighted code block
+MineServer 64
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+1回目=注意　2回目=警告　3回目=BAN　マインクラフトサーバーとDiscordサーバーも同じです
+### サーバー状態と投票リンク
+<a href="https://minecraft.jp/servers/27.127.176.228"><img src="https://minecraft.jp/servers/27.127.176.228/banner/4/560x95.png"/></a>
 
-### Jekyll Themes
+<a href="https://minecraft.jp/servers/27.127.176.228">mineserver64に投票</a>
+### サポート連絡先
+Discord連絡先
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mineserver-64/home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+マインクラフト
+サーバーオーナー: illusion395#4476
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Discordとサイトのオーナー: PENKUN0286#2255
