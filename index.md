@@ -33,4 +33,4 @@ Discord連絡先
 マインクラフト
 サーバーオーナー: illusion395#4476
 
-Discordとサイトのオーナー: PENKUN0286#2255
+Discordとサイトのオーナー: this is a pen#6347
