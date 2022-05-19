@@ -34,3 +34,5 @@ Discord連絡先
 サーバーオーナー: illusion395#4476
 
 Discordとサイトのオーナー: this is a pen#6347
+
+<meta name="google-site-verification" content="SZ8kNaKXvk0IO2Zsb8z93xjx6xinxD6fD3nfWdvVgFk" />
